@@ -1,11 +1,7 @@
 <div align="center">
   <h1>TotemGuardV3</h1>
-  <img alt="GitHub Release" src="https://img.shields.io/github/release/Bram1903/TotemGuard.svg">
-  <br>
-  <a href="https://www.spigotmc.org/resources/totemguard.119385/"><img alt="SpigotMC" src="https://img.shields.io/badge/-SpigotMC-blue?style=for-the-badge&logo=SpigotMC"></a>
-  <a href="https://modrinth.com/plugin/totemguard"><img alt="TotemGuard" src="https://img.shields.io/badge/-Modrinth-green?style=for-the-badge&logo=Modrinth"></a>
-  <br>
-  <a href="https://discord.deathmotion.com"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+  <a href="https://discord.gg/pgVe2HPm7j"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 ## Overview
@@ -18,9 +14,6 @@ specific needs.
 
 TotemGuard requires the [PacketEvents](https://modrinth.com/plugin/packetevents) library to function. Ensure it is
 installed on your server.
-
-### Sponsors
-[![JProfiler](docs/jProfiler.png)](https://www.ej-technologies.com/jprofiler)
 
 ## Table of Contents
 
