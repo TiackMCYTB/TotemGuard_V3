@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>TotemGuard</h1>
-  <img alt="Build" src="https://github.com/Bram1903/TotemGuard/actions/workflows/gradle.yml/badge.svg">
+  <h1>TotemGuardV3</h1>
   <img alt="GitHub Release" src="https://img.shields.io/github/release/Bram1903/TotemGuard.svg">
   <br>
   <a href="https://www.spigotmc.org/resources/totemguard.119385/"><img alt="SpigotMC" src="https://img.shields.io/badge/-SpigotMC-blue?style=for-the-badge&logo=SpigotMC"></a>
